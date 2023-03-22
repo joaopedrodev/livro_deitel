@@ -32,4 +32,6 @@ public class AccountTest {
 "Jane Green") até encontrar a nova linha, então retorna uma String contendo os caracteres até, mas não incluindo, a nova linha,
 que é descartada.
 
+O método setName guarda a informação, método getName mostra a informação armazenada para o usuário
+
  */
